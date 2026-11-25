@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 1,
+  "revisionNumber": 2,
   "platform": {
     "name": "Peanut Native",
     "uniqueId": "peanutnative",
@@ -18,5 +18,16 @@
     "customScreenAspectRatio": null,
     "retroAchievementsAlias": null
   },
-  "playerList": []
+  "playerList": [
+    {
+      "name": "Peanut Native",
+      "uniqueId": "peanutnative.dev.nxnative.android.peanuts",
+      "description": "NUP packages",
+      "acceptedFilenameRegex": "(?i)^.*\\.nup$",
+      "amStartArguments": "-n dev.nxnative.android.peanuts/dev.nxnative.android.MainActivity\n -a android.intent.action.VIEW\n -d {file.uri}",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    }
+  ]
 }

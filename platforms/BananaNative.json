@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 1,
+  "revisionNumber": 2,
   "platform": {
     "name": "Banana Native",
     "uniqueId": "banananative",
@@ -16,5 +16,16 @@
     "customScreenAspectRatio": null,
     "retroAchievementsAlias": null
   },
-  "playerList": []
+  "playerList": [
+    {
+      "name": "Banana Native",
+      "uniqueId": "banananative.dev.bananative.android",
+      "description": "NUP packages",
+      "acceptedFilenameRegex": "(?i)^.*\\.nup$",
+      "amStartArguments": "-n dev.bananative.android/dev.nxnative.android.MainActivity\n -a android.intent.action.VIEW\n -d {file.uri}",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    }
+  ]
 }
