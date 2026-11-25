@@ -5,7 +5,7 @@
     "name": "Peanut Native",
     "uniqueId": "peanutnative",
     "shortname": "peanutnative",
-    "description": "NUP game discovery; launch integration pending verification",
+    "description": null,
     "acceptedFilenameRegex": "(?i)^.*\\.nup$",
     "scraperSourceList": [
       "RAW: Nintendo - Switch"

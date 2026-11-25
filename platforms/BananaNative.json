@@ -5,7 +5,7 @@
     "name": "Banana Native",
     "uniqueId": "banananative",
     "shortname": "banananative",
-    "description": "NUP game discovery; launch integration pending verification",
+    "description": null,
     "acceptedFilenameRegex": "(?i)^.*\\.nup$",
     "scraperSourceList": [],
     "boxArtAspectRatioId": 2,
