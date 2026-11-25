@@ -1,5 +1,5 @@
 {
-  "baseUri": "https://raw.githubusercontent.com/likeich/console-launcher/main/platforms/",
+  "baseUri": "https://raw.githubusercontent.com/JoshXBum/console-launcher/main/platforms/",
   "platformList": [
     {
       "filename": "3DO.json",
@@ -55,7 +55,7 @@
       "platformName": "Arcadia 2001",
       "platformShortname": "arcadia",
       "platformUniqueId": "arcadia",
-      "revisionNumber": 5
+      "revisionNumber": 4
     },
     {
       "filename": "Arduboy.json",
@@ -854,6 +854,20 @@
       "platformShortname": "zxspectrum",
       "platformUniqueId": "zxspectrum",
       "revisionNumber": 9
+    },
+    {
+      "filename": "PeanutNative.json",
+      "platformName": "Peanut Native",
+      "platformShortname": "peanutnative",
+      "platformUniqueId": "peanutnative",
+      "revisionNumber": 1
+    },
+    {
+      "filename": "BananaNative.json",
+      "platformName": "Banana Native",
+      "platformShortname": "banananative",
+      "platformUniqueId": "banananative",
+      "revisionNumber": 1
     }
   ]
 }

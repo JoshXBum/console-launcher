@@ -1,0 +1,22 @@
+{
+  "databaseVersion": 14,
+  "revisionNumber": 1,
+  "platform": {
+    "name": "Peanut Native",
+    "uniqueId": "peanutnative",
+    "shortname": "peanutnative",
+    "description": "NUP game discovery; launch integration pending verification",
+    "acceptedFilenameRegex": "(?i)^.*\\.nup$",
+    "scraperSourceList": [
+      "RAW: Nintendo - Switch"
+    ],
+    "boxArtAspectRatioId": 2,
+    "useCustomBoxArtAspectRatio": true,
+    "customBoxArtAspectRatio": "3:5",
+    "screenAspectRatioId": 0,
+    "useCustomScreenAspectRatio": false,
+    "customScreenAspectRatio": null,
+    "retroAchievementsAlias": null
+  },
+  "playerList": []
+}

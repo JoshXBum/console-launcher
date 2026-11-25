@@ -1,0 +1,20 @@
+{
+  "databaseVersion": 14,
+  "revisionNumber": 1,
+  "platform": {
+    "name": "Banana Native",
+    "uniqueId": "banananative",
+    "shortname": "banananative",
+    "description": "NUP game discovery; launch integration pending verification",
+    "acceptedFilenameRegex": "(?i)^.*\\.nup$",
+    "scraperSourceList": [],
+    "boxArtAspectRatioId": 2,
+    "useCustomBoxArtAspectRatio": true,
+    "customBoxArtAspectRatio": "3:5",
+    "screenAspectRatioId": 0,
+    "useCustomScreenAspectRatio": false,
+    "customScreenAspectRatio": null,
+    "retroAchievementsAlias": null
+  },
+  "playerList": []
+}
