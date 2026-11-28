@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 29,
+  "revisionNumber": 30,
   "platform": {
     "name": "Nintendo Switch",
     "uniqueId": "switch",
@@ -227,6 +227,16 @@
       "description": "Supported extensions: nro, nso, nca, xci, nsp.",
       "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
       "amStartArguments": "-n dev.legacy.eden_emulator.nightly/org.yuzu.yuzu_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    },
+    {
+      "name": "switch - Peanut Native",
+      "uniqueId": "switch.dev.nxnative.android.peanuts",
+      "description": "NUP packages",
+      "acceptedFilenameRegex": "(?i)^.*\\.nup$",
+      "amStartArguments": "-n dev.nxnative.android.peanuts/dev.nxnative.android.peanuts.Launch\n -a android.intent.action.VIEW\n -d {file.uri}",
       "killPackageProcesses": false,
       "killPackageProcessesWarning": false,
       "extra": ""
