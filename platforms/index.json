@@ -868,6 +868,13 @@
       "platformShortname": "banananative",
       "platformUniqueId": "banananative",
       "revisionNumber": 3
+    },
+    {
+      "filename": "SwitchCombinedTest.json",
+      "platformName": "Switch Combined Test",
+      "platformShortname": "switchcombinedtest",
+      "platformUniqueId": "switchcombinedtest",
+      "revisionNumber": 1
     }
   ]
 }
