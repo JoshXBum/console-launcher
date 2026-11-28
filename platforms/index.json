@@ -860,14 +860,14 @@
       "platformName": "Peanut Native",
       "platformShortname": "peanutnative",
       "platformUniqueId": "peanutnative",
-      "revisionNumber": 2
+      "revisionNumber": 3
     },
     {
       "filename": "BananaNative.json",
       "platformName": "Banana Native",
       "platformShortname": "banananative",
       "platformUniqueId": "banananative",
-      "revisionNumber": 2
+      "revisionNumber": 3
     }
   ]
 }
